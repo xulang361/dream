@@ -6,5 +6,5 @@
 [【进阶1-1】JavaScript运行机制](https://github.com/xualng361/dream/issues/1)   
 [【training1-1】手写源码 ](https://github.com/xualng361/dream/issues/2)   
 [【进阶1-2】javascript的六种继承方式](https://github.com/xualng361/dream/issues/3)   
-[【training1-2】javascript中实现对象比较](https://github.com/xualng361/dream/issues/4)
+[【training1-2】javascript中实现对象比较](https://github.com/xualng361/dream/issues/4)  
 [【进阶2-1】Babel是如何工作的](https://github.com/xualng361/dream/issues/5)
